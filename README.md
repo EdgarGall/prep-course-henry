@@ -1,2 +1,4 @@
 # prep-course-henry
-prueba al subir a github
+Este es un ejemplo de como crear un repositorio y clonarlo en Github a mi computadora
+
+
